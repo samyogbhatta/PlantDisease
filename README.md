@@ -1,6 +1,6 @@
 # PlantDisease
 
-This repository is dedicated to plant disease detection and analysis. The primary focus is leveraging data and machine learning to identify and mitigate agricultural issues caused by plant diseases
+This repository is dedicated to plant disease detection and analysis. The primary focus is leveraging data and machine learning to identify and mitigate agricultural issues caused by plant diseases.
 
 ## Features
 - Plant disease classification using Jupyter Notebooks.
